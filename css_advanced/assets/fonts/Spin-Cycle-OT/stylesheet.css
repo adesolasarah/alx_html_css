@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Spin Cycle OT';
+    src: url('SpinCycleOT.woff2') format('woff2'),
+        url('SpinCycleOT.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Spin Cycle 3D OT';
+    src: url('SpinCycle3DOT.woff2') format('woff2'),
+        url('SpinCycle3DOT.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
